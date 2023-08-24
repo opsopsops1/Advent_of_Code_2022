@@ -1,0 +1,13 @@
+[env] py38
+
+Day 13 - json format
+
+Day 16 - 路徑 Not solved
+
+Day 17 - 重複路徑 Not solved
+
+Day 19 - 剪枝
+
+Day 22 - 立方體路徑 Not solved
+
+Day 24 - 一次性迭代佇列
